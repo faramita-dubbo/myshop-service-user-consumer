@@ -1,0 +1,1 @@
+# myshop-service-user-consumer
